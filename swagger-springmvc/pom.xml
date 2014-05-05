@@ -83,9 +83,6 @@
                             com.mangofactory.swagger.osgi;version="0.8.4-SNAPSHOT",
                             com.mangofactory.swagger;version="0.8.4-SNAPSHOT"
                         </Export-Package>
-<!-- 	                 <Embed-Dependency>*;scope=compile|runtime;groupId=!joda-time|com.fasterxml|org.springframework|com.google|org.apache|org.slf4j;artifactId=!scala-.*|jackson-annotations|jackson-core|jackson-databind|org.apache.servicemix.bundles.*|guava|commons-logging</Embed-Dependency>     
-                         <Embed-Transitive>true</Embed-Transitive>
--->
 	                </instructions>
                 </configuration>
             </plugin>
